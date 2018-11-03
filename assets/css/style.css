@@ -1,0 +1,26 @@
+body {
+    /* CSS reset */
+    margin-bottom: 0; 
+    /* body image background picture */
+    background-color: black;
+}
+
+.title {
+    text-align: center;
+
+}
+ h1{
+    font-size: 50px;
+}
+h4{
+    font-size: 30px;
+}
+img {
+    max-width: 100%;
+    height:auto;
+}
+
+.wrapper {
+    margin-top: 10em;
+    margin-bottom: 10em;
+}
