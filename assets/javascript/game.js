@@ -90,7 +90,7 @@ function checkGuess(userInput, appearStr) {
 
     console.log(errors);
     console.log(totalErrors);
-    if (errors >= totalErrors) {
+    if (totalErrors === 0) {
         console.log("insidefirst");
         lose++;
         setTimeout(function () {
