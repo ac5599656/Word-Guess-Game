@@ -1,4 +1,4 @@
-# JavaScript Hangman
+# JavaScript Hangman App
 
 ## URL
 
